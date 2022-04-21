@@ -3,3 +3,5 @@ this is a new file
 add new line
 
 These are my suggested changes
+
+i fixed the bug
